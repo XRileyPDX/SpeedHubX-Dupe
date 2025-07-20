@@ -15,7 +15,7 @@ Have a executor like delta, krnl, Synapse X, Fluxus and many more.
 Step 2:
 Copy this loadstring into the executor and execute it into your game.
 
-👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XRileyPDX/SpeedHubX-Dupe/refs/heads/main/SpeedHubX-Dupe"))()
 
 Step 3:
